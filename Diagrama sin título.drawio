@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T19:16:38.277Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.8" etag="qK1Vziu73CxR8qEGOwr-" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T19:19:53.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="nSIqv_Fq452TokBAPkGL" version="22.0.8" type="github">
   <diagram name="Página-1" id="0m3sj9YlFUBCiiJ28x1I">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-1" value="LNB Website" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="672" y="205.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-2" value="Mejorar UI" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-3" value="Mejorar UX" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-4" value="Partidos en Streaming" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-5" value="Información General" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1272" y="455.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Du-Us3jzlzCEvLlnOwf-1" target="4Du-Us3jzlzCEvLlnOwf-3">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="772" y="405.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Du-Us3jzlzCEvLlnOwf-1" target="4Du-Us3jzlzCEvLlnOwf-2">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="772" y="405.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Du-Us3jzlzCEvLlnOwf-1" target="4Du-Us3jzlzCEvLlnOwf-4">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="772" y="405.5" as="sourcePoint" />
+            <mxPoint x="122" y="165.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4Du-Us3jzlzCEvLlnOwf-47" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4Du-Us3jzlzCEvLlnOwf-1" target="4Du-Us3jzlzCEvLlnOwf-5">
+          <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
+            <mxPoint x="770" y="270" as="sourcePoint" />
+            <mxPoint x="982" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
